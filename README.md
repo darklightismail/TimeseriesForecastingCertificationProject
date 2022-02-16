@@ -50,11 +50,26 @@ Here is a great course to start with, where I learned about :
 #forecasting #timeseriesanalysis #timeseries #certificateofcompletion #datamining #bigdata #datascience #formation #ai #data
 
 
+# TIMESERIES FORECASTING FOR A CHAMPAGNE SALES :
+The problem is to predict the number of monthly sales of champagne for the Perrin Freres label (named for a region in France).
+
+The dataset provides the number of monthly sales of champagne from January 1964 to September 1972, or just under 10 years of data.
+
+The values are a count of millions of sales and there are 105 observations.
+
+The dataset is credited to Makridakis and Wheelwright, 1989.
+
+![image](https://user-images.githubusercontent.com/47457939/154357598-ce5c7b03-2023-4d0d-a382-ab77afa1c0fe.png)
+
+![image](https://user-images.githubusercontent.com/47457939/154357641-56f3eccd-9342-4435-8b21-ca2bec7fd851.png)
+
+![image](https://user-images.githubusercontent.com/47457939/154357709-c129c250-dc31-4cfa-a5bc-96f851a7d66e.png)
+
+![image](https://user-images.githubusercontent.com/47457939/154357748-a49be235-abfb-4f0e-811d-f719294a429b.png)
+
+![image](https://user-images.githubusercontent.com/47457939/154357932-365ab859-18d0-45fd-9291-5657e3e175b1.png)
 
 
+# Tools : SPREADSHEET and ALTERYX. 
 
-
-This post is from my Linkedin Account : JABRI ISMAIL.
-Make sure to check it out, 
-# TOOLS : SPREADSHEET and ALTERYX. 
 # Stay Tuned and Curious.
