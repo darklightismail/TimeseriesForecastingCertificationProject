@@ -70,6 +70,6 @@ The dataset is credited to Makridakis and Wheelwright, 1989.
 ![image](https://user-images.githubusercontent.com/47457939/154357932-365ab859-18d0-45fd-9291-5657e3e175b1.png)
 
 
-# Tools : SPREADSHEET and ALTERYX. 
+Tools : SPREADSHEET and ALTERYX. 
 
 # Stay Tuned and Curious.
