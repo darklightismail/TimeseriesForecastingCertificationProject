@@ -1,4 +1,4 @@
-# TimeseriesForecastingCertification
+# Timeseries Forecasting Certification Project
 ![image](https://user-images.githubusercontent.com/47457939/154361076-b6d4c462-9ea9-4236-ae9b-bcbfc2d3437e.png)
 
 📈For anyone who is interested in TimeSeries Forecasting. 
